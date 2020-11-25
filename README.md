@@ -1,2 +1,2 @@
 # whatbot
-It is an idead for a whatsapp bot.
+It is an idea for a whatsapp bot.
